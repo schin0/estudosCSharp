@@ -1,0 +1,2 @@
+#001 -> Criar uma calculadora com as 4 operações básicas
+#002 -> Criar um cronômetro que recebe um valor em segundos ou minutos
