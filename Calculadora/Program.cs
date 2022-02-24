@@ -30,6 +30,7 @@ namespace Calculadora
             short operacao = short.Parse(Console.ReadLine());
             Console.WriteLine("");
 
+            // Opções de escolha:
             switch (operacao)
             {
                 case 1:
