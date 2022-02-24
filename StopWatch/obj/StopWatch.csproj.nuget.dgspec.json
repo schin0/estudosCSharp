@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gabriel.schincariol\\Desktop\\pessoal\\estudosCSharp\\StopWatch\\StopWatch.csproj": {}
+    "C:\\Users\\gabriel.schincariol\\Desktop\\pessoal\\estudosCSharp\\StopWatch\\StopWatch.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gabriel.schincariol\\Desktop\\pessoal\\estudosCSharp\\StopWatch\\StopWatch.csproj": {
+    "C:\\Users\\gabriel.schincariol\\Desktop\\pessoal\\estudosCSharp\\StopWatch\\StopWatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gabriel.schincariol\\Desktop\\pessoal\\estudosCSharp\\StopWatch\\StopWatch.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel.schincariol\\Desktop\\pessoal\\estudosCSharp\\StopWatch\\StopWatch.csproj",
         "projectName": "StopWatch",
-        "projectPath": "c:\\Users\\gabriel.schincariol\\Desktop\\pessoal\\estudosCSharp\\StopWatch\\StopWatch.csproj",
+        "projectPath": "C:\\Users\\gabriel.schincariol\\Desktop\\pessoal\\estudosCSharp\\StopWatch\\StopWatch.csproj",
         "packagesPath": "C:\\Users\\gabriel.schincariol\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gabriel.schincariol\\Desktop\\pessoal\\estudosCSharp\\StopWatch\\obj\\",
+        "outputPath": "C:\\Users\\gabriel.schincariol\\Desktop\\pessoal\\estudosCSharp\\StopWatch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
